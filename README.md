@@ -21,7 +21,7 @@ pip install numpy matplotlib networkx
 # **Cómo Ejecutar el Proyecto**
 
 ```bash
-git clone https://github.com/Bunnydragon96/Contagion-Graph/Proyecto_SIR_Completo_Full.py
+git clone https://github.com/Bunnydragon96/Contagion-Graph/
 
 python3 Proyecto_SIR_Completo_Full.py
 ```
