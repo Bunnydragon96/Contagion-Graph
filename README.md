@@ -3,7 +3,7 @@
 ### Comparación de redes _Erdős-Rényi_, _Barabási-Albert_ y _Watts-Strogatz_
 
 **Autores:** Johnel Cunningham & Luis E. Cardoso  
-**Curso:** MATE4017 — Análisis de Algoritmos  
+**Curso:** COMP4017 — Análisis de Algoritmos  
 **Universidad de Puerto Rico – Recinto de Mayagüez**  
 **Diciembre 2025**
 
